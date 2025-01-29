@@ -1,0 +1,5 @@
+cirq
+cirq-ionq
+ionq
+python-dotenv
+cryptography
